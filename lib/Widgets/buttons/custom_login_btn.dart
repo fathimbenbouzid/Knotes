@@ -13,7 +13,9 @@ class CustomLoginBtn extends StatelessWidget {
       width: double.infinity,
       height: 54,
       child: ElevatedButton(
-          onPressed: () {},
+          onPressed: () {
+            Navigator.pushReplacementNamed(context, '/Home');
+          },
           style: ElevatedButton.styleFrom(
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(54),

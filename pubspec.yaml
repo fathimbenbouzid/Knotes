@@ -69,6 +69,13 @@ flutter:
     - assets/icons/arrow-narrow-right.svg
     - assets/images/Logo Image.png
     - assets/icons/cheveron-left.svg
+    - assets/images/homeEmpty.png
+    - assets/icons/clipboard-check.svg
+    - assets/icons/clipboard-check(1).svg
+    - assets/icons/home (1).svg
+    - assets/icons/home.svg
+    - assets/icons/cog.svg
+    - assets/icons/search.svg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
